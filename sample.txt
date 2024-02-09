@@ -1,0 +1,14 @@
+<svg class="w-auto md:w-[639px] md:h-[573px]" viewBox="0 0 639 573" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <rect width="440" height="542" rx="21" fill="url(#pattern0)"/>
+                    <rect x="349" y="328" rx="21" ry="21" width="190" height="245" fill="url(#pattern1)"/>
+                    <defs>
+                    <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+                    <use xlink:href="#image0_0_1" transform="matrix(0.00214926 0 0 0.00214133 -0.25224 0)"/>
+                    </pattern>
+                    <pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+                    <use xlink:href="#image1_0_1" transform="matrix(0.000424173 0 0 0.000411937 -0.368706 -0.125)"/>
+                    </pattern>
+                    <image id="image0_0_1" width="700" height="467" xlink:href="E:\Durvasa_infotech\project-1\dist\images\Rectangle 18.jpg" />
+                    <image id="image1_0_1" width="700" height="467" xlink:href="E:\Durvasa_infotech\project-1\dist\images\falling-stock-exchange-statistics-hologram-screen 1.jpg" />
+                    </defs>
+                    </svg>
